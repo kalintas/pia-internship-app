@@ -1,0 +1,19 @@
+
+#searchResults {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#searchResults div {
+    flex: 1 1 auto;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 3px;
+}
+
+#searchResults img {
+    width: 300px;
+    height: auto;
+}
