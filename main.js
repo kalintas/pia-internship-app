@@ -37,3 +37,7 @@ function search() {
         table.appendChild(div);
     });    
 }
+
+document.addEventListener("DOMContentLoaded", function(e) {
+    search();
+});
