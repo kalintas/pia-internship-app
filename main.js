@@ -22,11 +22,11 @@ function search() {
         };
         
         let div = document.createElement("div");
-        div.id = product.id;
+        div.className = "product";
 
         let image = document.createElement("img");
         image.src = product.imageurl;
-        image.id = "imageUrl";
+        image.className = "productImage";
         div.appendChild(image);
 
         div.appendChild(createDiv(product.name, "name"));

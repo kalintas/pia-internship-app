@@ -4,7 +4,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 78.66
   },
   {
@@ -12,7 +12,7 @@ const ProductDatabase = [
     "name": "City Sneaker",
     "category": "Shoes",
     "description": "Comfortable and stylish shoes for everyday use.",
-    "imageurl": "https://images.pexels.com/photos/10375549/pexels-photo-10375549.jpeg",
+    "imageurl": "https://plescon.sm.mncdn.com/mnresize/1200/-/lescon/upload/urunler/24NAU00LOYAU_001_3.jpg",
     "price": 137.33
   },
   {
@@ -84,7 +84,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 17.25
   },
   {
@@ -100,7 +100,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 44.23
   },
   {
@@ -108,7 +108,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 74.0
   },
   {
@@ -156,7 +156,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 37.96
   },
   {
@@ -204,7 +204,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 45.61
   },
   {
@@ -212,7 +212,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 16.54
   },
   {
@@ -276,7 +276,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 38.27
   },
   {
@@ -284,7 +284,7 @@ const ProductDatabase = [
     "name": "City Sneaker",
     "category": "Shoes",
     "description": "Comfortable and stylish shoes for everyday use.",
-    "imageurl": "https://images.pexels.com/photos/10375549/pexels-photo-10375549.jpeg",
+    "imageurl": "https://plescon.sm.mncdn.com/mnresize/1200/-/lescon/upload/urunler/24NAU00LOYAU_001_3.jpg",
     "price": 121.5
   },
   {
@@ -332,7 +332,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 95.75
   },
   {
@@ -388,7 +388,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 73.68
   },
   {
@@ -412,7 +412,7 @@ const ProductDatabase = [
     "name": "Sun Hat",
     "category": "Hats",
     "description": "A trendy hat to complement your outfit.",
-    "imageurl": "https://images.pexels.com/photos/1344933/pexels-photo-1344933.jpeg",
+    "imageurl": "https://i5.walmartimages.com/seo/Solid-Black-Baseball-Cap-Hat-with-Adjustable-Buckle-Back-Unisex_2b2bd9e5-d9df-4432-89e6-e22570e2de9e.bd72dfea18cccbcce241cbf7d35226c5.jpeg",
     "price": 37.78
   },
   {
@@ -428,7 +428,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 38.47
   },
   {
@@ -476,7 +476,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 79.08
   },
   {
@@ -500,7 +500,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 73.06
   },
   {
@@ -508,7 +508,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 60.11
   },
   {
@@ -532,7 +532,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 87.65
   },
   {
@@ -588,7 +588,7 @@ const ProductDatabase = [
     "name": "City Sneaker",
     "category": "Shoes",
     "description": "Comfortable and stylish shoes for everyday use.",
-    "imageurl": "https://images.pexels.com/photos/10375549/pexels-photo-10375549.jpeg",
+    "imageurl": "https://plescon.sm.mncdn.com/mnresize/1200/-/lescon/upload/urunler/24NAU00LOYAU_001_3.jpg",
     "price": 134.98
   },
   {
@@ -612,7 +612,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 43.08
   },
   {
@@ -652,7 +652,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 56.87
   },
   {
@@ -684,7 +684,7 @@ const ProductDatabase = [
     "name": "City Sneaker",
     "category": "Shoes",
     "description": "Comfortable and stylish shoes for everyday use.",
-    "imageurl": "https://images.pexels.com/photos/10375549/pexels-photo-10375549.jpeg",
+    "imageurl": "https://plescon.sm.mncdn.com/mnresize/1200/-/lescon/upload/urunler/24NAU00LOYAU_001_3.jpg",
     "price": 145.68
   },
   {
@@ -700,7 +700,7 @@ const ProductDatabase = [
     "name": "City Sneaker",
     "category": "Shoes",
     "description": "Comfortable and stylish shoes for everyday use.",
-    "imageurl": "https://images.pexels.com/photos/10375549/pexels-photo-10375549.jpeg",
+    "imageurl": "https://plescon.sm.mncdn.com/mnresize/1200/-/lescon/upload/urunler/24NAU00LOYAU_001_3.jpg",
     "price": 43.22
   },
   {
@@ -732,7 +732,7 @@ const ProductDatabase = [
     "name": "Cargo Pants",
     "category": "Pants",
     "description": "Durable and fashionable pants for all occasions.",
-    "imageurl": "https://images.pexels.com/photos/10362351/pexels-photo-10362351.jpeg",
+    "imageurl": "https://outdoorvitals.com/cdn/shop/products/greensatushopify.png?v=1701706579&width=1000",
     "price": 45.84
   },
   {

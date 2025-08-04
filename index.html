@@ -8,15 +8,16 @@
 </head>
 
 <body>
-    <input id="nameInput" onkeyup="search();">Name</input>
-    <select id="categoryInput" name="Category" onclick="search();">
-        <option value="">All</option>
-        <option value="Shoes">Shoes</option>
-        <option value="Pants">Pants</option>
-        <option value="Hats">Hats</option>
-    </select>
-    <input id="searchButton" type="button" onClick="search();" value="Search">
-
+    <div class="queryBar">
+        <input class="searchInput" id="nameInput" onkeyup="search();">Name</input>
+        <select id="categoryInput" name="Category" onclick="search();">
+            <option value="">All</option>
+            <option value="Shoes">Shoes</option>
+            <option value="Pants">Pants</option>
+            <option value="Hats">Hats</option>
+        </select>
+        <input id="searchButton" type="button" onClick="search();" value="Search">
+    </div>
     <div id="searchResults">
     </div>
 </body>
