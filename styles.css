@@ -35,12 +35,17 @@
 }
 
 .queryBar {
-    width: 400px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .searchInput {
+    padding: 2px;
+    margin: 3px;
+}
+.idSearchInput {
+    width: 100px;
     padding: 2px;
     margin: 3px;
 }
