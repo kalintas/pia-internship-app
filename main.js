@@ -13,8 +13,8 @@ const Routes = [
 function router() {
     resetHomePageState();
     resetProductPageState();
-
-    let regexMatch = Routes.find(route => route.path.test(location.pathname));
+    const path = location.pathname.slice("/pia-internship-app/");
+    let regexMatch = Routes.find(route => route.path.test(path));
     const root = document.getElementById('root');
     if (regexMatch) {
         if (regexMatch.page === 'home') {
@@ -22,7 +22,7 @@ function router() {
             search();
             return;
         } else if (regexMatch.page === 'product') {
-            const productId = regexMatch.path.exec(location.pathname)[1];
+            const productId = regexMatch.path.exec(path)[1];
             const product = ProductDatabase.find(product => product.id === productId);
             if (product) {
                 root.innerHTML = ProductPage({ product });
