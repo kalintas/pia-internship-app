@@ -11,6 +11,9 @@ const Routes = [
 ]
 
 function router() {
+    resetHomePageState();
+    resetProductPageState();
+
     let regexMatch = Routes.find(route => route.path.test(location.pathname));
     const root = document.getElementById('root');
     if (regexMatch) {
@@ -22,7 +25,7 @@ function router() {
             const productId = regexMatch.path.exec(location.pathname)[1];
             const product = ProductDatabase.find(product => product.id === productId);
             if (product) {
-                root.innerHTML = ProductPage(product);
+                root.innerHTML = ProductPage({ product });
                 return;
             }
         }

@@ -1,2 +1,1 @@
-pagination
-urun detayi altina oneriler
+pagination pivot

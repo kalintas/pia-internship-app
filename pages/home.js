@@ -1,4 +1,17 @@
+const MaximumProductPerPage = 100;
+let currentPage = 1;
+const totalPages = Math.ceil(ProductDatabase.length / MaximumProductPerPage);
 
+function resetHomePageState() {
+    currentPage = 1;
+}
+
+function onHomePageChange(page) {
+    currentPage = page;
+    search();
+    updatePagination(currentPage, totalPages);
+    window.scrollTo(0, 0);
+}
 
 function HomePage() {
     const ProductCategories = Array.from(new Set(ProductDatabase.map(p => p.category))).sort();
@@ -21,10 +34,11 @@ function HomePage() {
             <input id="searchButton" class="search-btn" type="button" onClick="search();" value="Search">
         </div>
         <div id="searchResults" class="homepage-results"></div>
+        ${Pagination({ currentPage, totalPages, onPageChange: "onHomePageChange" })}
     </div>`;
 }
 
-function Product(product) {
+function Product({ product }) {
     return String.raw `
     <div class="product">
         <img src="${product.imageurl}" class="productImage" onClick="history.pushState(null, null, '/product/${product.id}'); router();">
@@ -51,8 +65,8 @@ function search() {
 
     table.innerHTML = "";
 
-    // Iterate all the found products and create a div for each one of them.
-    searchResult.forEach((product) => {
-        table.innerHTML += Product(product);
-    });
+    const productCount = Math.min(searchResult.length, MaximumProductPerPage);
+    for (let i = (currentPage - 1) * MaximumProductPerPage; i < (currentPage * MaximumProductPerPage); i++) {
+        table.innerHTML += Product({ product: searchResult[i] });
+    }
 }
