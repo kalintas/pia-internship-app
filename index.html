@@ -1,27 +1,22 @@
+<!DOCTYPE html>
 <html>
 
 <head>
     <title>Amazon 2</title>
-    <script src="main.js"></script>
-    <script src="product_database.js"></script>
-    <link rel="stylesheet" href="styles.css">
+    <script src="/main.js"></script>
+    <script src="/pages/404.js"></script>
+    <script src="/pages/home.js"></script>
+    <script src="/pages/product.js"></script>
+    <script src="/product_database.js"></script>
+
+
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/styles.css">
 </head>
 
 <body>
-    <div class="queryBar">
-        <input class="idSearchInput" id="idInput" onkeyup="search();">Id</input>
-        <input class="searchInput" id="nameInput" onkeyup="search();">Name</input>
-        <select class="searchCategory" id="categoryInput" name="Category" onclick="search();">
-            <option value="">All</option>
-            <option value="Shoes">Shoes</option>
-            <option value="Pants">Pants</option>
-            <option value="Hats">Hats</option>
-        </select>
-        <input id="searchButton" type="button" onClick="search();" value="Search">
+    <div id="root">
     </div>
-    <div id="searchResults">
-    </div>
-
 </body>
 
 </html>

@@ -1,45 +1,36 @@
-function search() {
-    let id = document.getElementById('idInput').value;
-    let name = document.getElementById('nameInput').value;
-    let categoryInput = document.getElementById('categoryInput').value;
 
-    // Filter all the database based on the search inputs.
-    // If the id or name inputs are empty ignore them.
-    let searchResult = ProductDatabase.filter((product) => {
-        return (id === "" || product.id === id) && (name === "" || product.name.toLowerCase().includes(name.toLowerCase()))
-            && (categoryInput === "" || categoryInput === product.category);
-    });
+const Routes = [
+    {
+        path: /^\/$/, // Path contains just / character meaning its the root page.
+        page: 'home'
+    },
+    {
+        path: /^\/product\/([a-zA-Z0-9]*)$/, // Path contains /product/[product id] so its a product page
+        page: 'product'
+    }
+]
 
-    let table = document.getElementById('searchResults');
+function router() {
+    let regexMatch = Routes.find(route => route.path.test(location.pathname));
+    const root = document.getElementById('root');
+    if (regexMatch) {
+        if (regexMatch.page === 'home') {
+            root.innerHTML = HomePage();
+            search();
+            return;
+        } else if (regexMatch.page === 'product') {
+            const productId = regexMatch.path.exec(location.pathname)[1];
+            const product = ProductDatabase.find(product => product.id === productId);
+            if (product) {
+                root.innerHTML = ProductPage(product);
+                return;
+            }
+        }
+    }
 
-    table.innerHTML = "";
-
-    searchResult.forEach((product) => {
-        let createDiv = (value, id) => {
-            let div = document.createElement("div");
-            let divText = document.createTextNode(value);
-            div.appendChild(divText);
-            div.id = id;
-            return div;
-        };
-
-        let div = document.createElement("div");
-        div.className = "product";
-
-        let image = document.createElement("img");
-        image.src = product.imageurl;
-        image.className = "productImage";
-        div.appendChild(image);
-
-        div.appendChild(createDiv(product.name, "name"));
-        div.appendChild(createDiv(product.category, "category"));
-        div.appendChild(createDiv(product.description, "description"));
-        div.appendChild(createDiv(product.price, "price"));
-
-        table.appendChild(div);
-    });
+    // Could not find a match.
+    root.innerHTML = notFoundPage();
 }
 
-document.addEventListener("DOMContentLoaded", function (e) {
-    search();
-});
+document.addEventListener("DOMContentLoaded", router);
+window.addEventListener('popstate', router);
