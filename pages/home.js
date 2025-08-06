@@ -23,7 +23,7 @@ function HomePage() {
     return String.raw`
     <div class="homepage-container">
         <div class="homepage-header">
-            <img src="/images/favicon.ico" class="homepage-logo" alt="Logo">
+            <img src="/pia-internship-app/images/favicon.ico" class="homepage-logo" alt="Logo">
             <span class="homepage-brand">Amazon 2</span>
         </div>
         <div class="queryBar">
