@@ -15,6 +15,9 @@ function resetProductPageState() {
 }
 
 function onSuggestionsPageChange(page) {
+    if (!currentProduct) {
+        return;
+    }
     currentSuggestionsPage = page;
     updatePagination(currentSuggestionsPage, totalSuggestionsPages, "onSuggestionsPageChange");
     let suggestionsBox = document.getElementById("suggestions-box");
@@ -78,8 +81,8 @@ function ProductPage({ product }) {
         <div class="product-detail-category">${product.category}</div>
         <div class="product-detail-description">${product.description}</div>
         <div class="product-detail-price">$${product.price}</div>
-        <button class="product-detail-add-to-cart" onclick="addToCart('${product.id}')">Add to Cart</button>
-        <button class="product-detail-back" onclick="history.pushState(null, null, '/'); router();">Back to Home</button>
+        <button class="product-detail-add-to-cart")">Add to Cart</button>
+        <button class="product-detail-back" onclick="history.pushState(null, null, '../'); router();">Back to Home</button>
     </div>
         ${Suggestions({ product })}
     `;

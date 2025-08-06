@@ -42,8 +42,8 @@ function HomePage() {
 
 function Product({ product }) {
     return String.raw `
-    <div class="product" onClick="history.pushState(null, null, '/product/${product.id}'); router();">
-        <img src="${product.imageurl}" class="productImage">
+    <div class="product" onClick="history.pushState(null, null, 'product/${product.id}'); router();">
+        <img src="${product.imageurl}" class="productImage" alt="Product image">
         <div class="productName" id="name">${product.name}</div>
         <div class="productCategory" id="category">${product.category}</div>
         <div class="productDescription" id="description">${product.description}</div>

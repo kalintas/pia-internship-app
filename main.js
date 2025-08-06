@@ -13,10 +13,13 @@ const Routes = [
 function router() {
     resetHomePageState();
     resetProductPageState();
-    const path = location.pathname.replace('/pia-internship-app', '');
+    let path = location.pathname.replace('/pia-internship-app', '');
+    if (path === "") {
+        path = '/';
+    }
     let regexMatch = Routes.find(route => route.path.test(path));
     const root = document.getElementById('root');
-    if (regexMatch) {
+        if (regexMatch) {
         if (regexMatch.page === 'home') {
             root.innerHTML = HomePage();
             search();
