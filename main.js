@@ -14,15 +14,14 @@ function router() {
     resetHomePageState();
     resetProductPageState();
     let path;
-    let cleaned = false;
+    // Path might include a query which is a part of the SPA implementation in github pages.
     if (location.search.startsWith('?/')) {
-        // Extract the path from the query string, ignoring any additional query params
+        // So we first remove the query and clean up the url
         path = location.search.slice(2).split('&')[0];
         path = '/' + path.replace(/^\//, ''); // Ensure leading slash
-        // Clean up the URL in the address bar
+        
         const newUrl = '/pia-internship-app' + path + location.hash;
         history.replaceState(null, '', newUrl);
-        cleaned = true;
     } else {
         path = location.pathname.replace('/pia-internship-app', '');
         if (path === "") {
@@ -47,7 +46,7 @@ function router() {
     }
 
     // Could not find a match.
-    root.innerHTML = notFoundPage();
+    root.innerHTML = NotFoundPage();
 }
 
 document.addEventListener("DOMContentLoaded", router);
