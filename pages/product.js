@@ -28,9 +28,7 @@ function onSuggestionsPageChange(page) {
 
 function setSuggestionSwipeTimeout() {
     suggestionSwipeTimeout = setTimeout(() => {
-        if (currentSuggestionsPage < totalSuggestionsPages) {
-            onSuggestionsPageChange(currentSuggestionsPage + 1);
-        }
+        onSuggestionsPageChange(currentSuggestionsPage < totalSuggestionsPages ? currentSuggestionsPage + 1 : 1);
         setSuggestionSwipeTimeout();
     }, 10000);
 }

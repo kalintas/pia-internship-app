@@ -59,7 +59,7 @@ function search(keepPage) {
     // Filter all the database based on the search inputs.
     // If the id or name inputs are empty ignore them.
     let searchResult = ProductDatabase.filter((product) => {
-        return (id === "" || product.id === id) && (name === "" || product.name.toLowerCase().includes(name.toLowerCase()))
+        return (id === "" || product.id.includes(id)) && (name === "" || product.name.toLowerCase().includes(name.toLowerCase()))
             && (categoryInput === "" || categoryInput === product.category);
     });
     if (!keepPage) {
