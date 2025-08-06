@@ -13,7 +13,7 @@ const Routes = [
 function router() {
     resetHomePageState();
     resetProductPageState();
-    const path = location.pathname.replace('/pia-internship-app/', '');
+    const path = location.pathname.replace('/pia-internship-app', '');
     let regexMatch = Routes.find(route => route.path.test(path));
     const root = document.getElementById('root');
     if (regexMatch) {
