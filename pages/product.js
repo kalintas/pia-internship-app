@@ -8,7 +8,10 @@ function resetProductPageState() {
     currentSuggestionsPage = 1;
     totalSuggestionsPages = 0;
     currentProduct = null;
-    suggestionSwipeTimeout = null;
+    if (suggestionSwipeTimeout) {
+        clearInterval(suggestionSwipeTimeout);
+        suggestionSwipeTimeout = null;
+    }
 }
 
 function onSuggestionsPageChange(page) {
@@ -45,21 +48,21 @@ function Suggestions({ product }) {
     totalSuggestionsPages = Math.ceil(similar.length / MaxSuggestionsPerPage) || 1;
 
     const list = pageItems.map(p => `
-        <div style='display: flex; align-items: center; margin-bottom: 10px;'>
-            <img src='${p.imageurl}' style='width: 48px; height: 48px; object-fit: cover; border-radius: 6px; margin-right: 10px;' />
-            <div style='flex: 1;'>
-                <div style='font-weight: 500;'>${p.name}</div>
-                <div style='font-size: 0.95em; color: #888;'>$${p.price}</div>
+        <div class="suggestion-item">
+            <img src='${p.imageurl}' class="suggestion-img" />
+            <div class="suggestion-info">
+                <div class="suggestion-name">${p.name}</div>
+                <div class="suggestion-price">$${p.price}</div>
             </div>
-            <button style='margin-left: 8px; padding: 4px 10px; font-size: 0.95em;' onclick="history.pushState(null, null, '/product/${p.id}'); router();">View</button>
+            <button class="suggestion-view-btn" onclick="history.pushState(null, null, '/product/${p.id}'); router();">View</button>
         </div>
     `).join('');
-    const pagination = Pagination({ currentPage: currentSuggestionsPage, totalPages, onPageChange: "onSuggestionsPageChange" });
+    const pagination = Pagination({ currentPage: currentSuggestionsPage, totalPages, onPageChange: "onSuggestionsPageChange", maxPagesToShow: 4 });
     return String.raw`
-    <div id="suggestions-box" style="position: fixed; bottom: 24px; right: 24px; width: 400px; background: white; border: 1px solid #ddd; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.12); padding: 28px 28px 20px 28px; z-index: 1000;">
-        <div style="font-weight: bold; font-size: 1.25em; margin-bottom: 16px;">Similar Products</div>
-        <div id="suggestions-list" style="font-size: 1.08em;">
-            ${list || '<div style=\"color: #888;\">No similar products found.</div>'}
+    <div id="suggestions-box" class="suggestions-box">
+        <div class="suggestions-title">Similar Products</div>
+        <div id="suggestions-list" class="suggestions-list">
+            ${list || '<div class="suggestions-empty">No similar products found.</div>'}
         </div>
         ${pagination}
     </div>
@@ -78,7 +81,7 @@ function ProductPage({ product }) {
         <div class="product-detail-description">${product.description}</div>
         <div class="product-detail-price">$${product.price}</div>
         <button class="product-detail-add-to-cart" onclick="addToCart('${product.id}')">Add to Cart</button>
-        <button class="product-detail-back" style="margin-top: 12px; font-weight: bold; padding: 10px 28px;" onclick="history.pushState(null, null, '/'); router();">Back to Home</button>
+        <button class="product-detail-back" onclick="history.pushState(null, null, '/'); router();">Back to Home</button>
     </div>
         ${Suggestions({ product })}
     `;

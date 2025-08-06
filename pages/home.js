@@ -1,6 +1,6 @@
-const MaximumProductPerPage = 100;
+const MaximumProductPerPage = 60;
 let currentPage = 1;
-const totalPages = Math.ceil(ProductDatabase.length / MaximumProductPerPage);
+let totalPages = Math.ceil(ProductDatabase.length / MaximumProductPerPage);
 
 function resetHomePageState() {
     currentPage = 1;
@@ -8,8 +8,8 @@ function resetHomePageState() {
 
 function onHomePageChange(page) {
     currentPage = page;
-    search();
-    updatePagination(currentPage, totalPages);
+    search(true);
+    updatePagination(currentPage, totalPages, "onHomePageChange");
     window.scrollTo(0, 0);
 }
 
@@ -18,7 +18,8 @@ function HomePage() {
     // Collect all category values into a string.
     const categoryOptions = ['<option value="">All</option>']
         .concat(ProductCategories.map(cat => `<option value="${cat}">${cat}</option>`)).join('');
-    
+
+        // Add a results count display above the results
     return String.raw`
     <div class="homepage-container">
         <div class="homepage-header">
@@ -33,6 +34,7 @@ function HomePage() {
             </select>
             <input id="searchButton" class="search-btn" type="button" onClick="search();" value="Search">
         </div>
+        <div id="resultsCount" class="results-count"></div>
         <div id="searchResults" class="homepage-results"></div>
         ${Pagination({ currentPage, totalPages, onPageChange: "onHomePageChange" })}
     </div>`;
@@ -40,8 +42,8 @@ function HomePage() {
 
 function Product({ product }) {
     return String.raw `
-    <div class="product">
-        <img src="${product.imageurl}" class="productImage" onClick="history.pushState(null, null, '/product/${product.id}'); router();">
+    <div class="product" onClick="history.pushState(null, null, '/product/${product.id}'); router();">
+        <img src="${product.imageurl}" class="productImage">
         <div class="productName" id="name">${product.name}</div>
         <div class="productCategory" id="category">${product.category}</div>
         <div class="productDescription" id="description">${product.description}</div>
@@ -49,7 +51,7 @@ function Product({ product }) {
     </div>`;
 }
 
-function search() {
+function search(keepPage) {
     let id = document.getElementById('idInput').value;
     let name = document.getElementById('nameInput').value;
     let categoryInput = document.getElementById('categoryInput').value;
@@ -60,13 +62,24 @@ function search() {
         return (id === "" || product.id === id) && (name === "" || product.name.toLowerCase().includes(name.toLowerCase()))
             && (categoryInput === "" || categoryInput === product.category);
     });
+    if (!keepPage) {
+        currentPage = 1;
+    }
+    totalPages = Math.ceil(searchResult.length / MaximumProductPerPage);
+    updatePagination(currentPage, totalPages, "onHomePageChange");
 
     let table = document.getElementById('searchResults');
+    let resultsCountDiv = document.getElementById('resultsCount');
 
     table.innerHTML = "";
 
-    const productCount = Math.min(searchResult.length, MaximumProductPerPage);
-    for (let i = (currentPage - 1) * MaximumProductPerPage; i < (currentPage * MaximumProductPerPage); i++) {
+    // Calculate the range of products being shown
+    const start = searchResult.length === 0 ? 0 : ((currentPage - 1) * MaximumProductPerPage) + 1;
+    const end = Math.min(currentPage * MaximumProductPerPage, searchResult.length);
+    const total = searchResult.length;
+    resultsCountDiv.innerText = `Showing ${start}-${end} of ${total} results`;
+
+    for (let i = (currentPage - 1) * MaximumProductPerPage; i < (currentPage * MaximumProductPerPage) && i < searchResult.length; i++) {
         table.innerHTML += Product({ product: searchResult[i] });
     }
 }

@@ -12,7 +12,7 @@ const ProductDatabase = [
     "name": "QuickCharge Power Bank",
     "category": "Toys",
     "description": "Portable QuickCharge Power Bank in the Toys category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 95.11
   },
   {
@@ -60,7 +60,7 @@ const ProductDatabase = [
     "name": "ChefPro Knife Set",
     "category": "Crafts",
     "description": "Stylish ChefPro Knife Set in the Crafts category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 27.4
   },
   {
@@ -84,7 +84,7 @@ const ProductDatabase = [
     "name": "BreezeCool Air Purifier",
     "category": "Crafts",
     "description": "Essential BreezeCool Air Purifier in the Crafts category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 87.81
   },
   {
@@ -92,7 +92,7 @@ const ProductDatabase = [
     "name": "SolarCharge Lantern",
     "category": "Toys",
     "description": "Eco-friendly SolarCharge Lantern in the Toys category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 16.56
   },
   {
@@ -172,7 +172,7 @@ const ProductDatabase = [
     "name": "BreezeCool Air Purifier",
     "category": "Crafts",
     "description": "Stylish BreezeCool Air Purifier in the Crafts category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 21.53
   },
   {
@@ -196,7 +196,7 @@ const ProductDatabase = [
     "name": "PhotoPro Tripod",
     "category": "Art",
     "description": "Premium PhotoPro Tripod in the Art category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 150.32
   },
   {
@@ -204,7 +204,7 @@ const ProductDatabase = [
     "name": "ChefMate Apron",
     "category": "Games",
     "description": "Compact ChefMate Apron in the Games category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 51.04
   },
   {
@@ -236,7 +236,7 @@ const ProductDatabase = [
     "name": "CrystalClear Water Filter",
     "category": "Art",
     "description": "Amazing CrystalClear Water Filter in the Art category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 152.6
   },
   {
@@ -292,7 +292,7 @@ const ProductDatabase = [
     "name": "UrbanChic Handbag",
     "category": "Games",
     "description": "Handcrafted UrbanChic Handbag in the Games category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 107.01
   },
   {
@@ -308,7 +308,7 @@ const ProductDatabase = [
     "name": "HealthPlus Vitamin C",
     "category": "Art",
     "description": "Amazing HealthPlus Vitamin C in the Art category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 17.01
   },
   {
@@ -444,7 +444,7 @@ const ProductDatabase = [
     "name": "ChefElite Cutting Board",
     "category": "Crafts",
     "description": "Innovative ChefElite Cutting Board in the Crafts category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 36.23
   },
   {
@@ -620,7 +620,7 @@ const ProductDatabase = [
     "name": "HomeGuard Smoke Detector",
     "category": "Games",
     "description": "Amazing HomeGuard Smoke Detector in the Games category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 84.82
   },
   {
@@ -732,7 +732,7 @@ const ProductDatabase = [
     "name": "FitStep Pedometer",
     "category": "Art",
     "description": "Eco-friendly FitStep Pedometer in the Art category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 10.77
   },
   {
@@ -804,7 +804,7 @@ const ProductDatabase = [
     "name": "UrbanStyle Backpack",
     "category": "Games",
     "description": "Lightweight UrbanStyle Backpack in the Games category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 110.03
   },
   {
@@ -836,7 +836,7 @@ const ProductDatabase = [
     "name": "PowerLift Kettlebell",
     "category": "Toys",
     "description": "Durable PowerLift Kettlebell in the Toys category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.25
   },
   {
@@ -852,7 +852,7 @@ const ProductDatabase = [
     "name": "ComfyPet Dog Bed",
     "category": "Toys",
     "description": "Limited Edition ComfyPet Dog Bed in the Toys category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 18.25
   },
   {
@@ -868,7 +868,7 @@ const ProductDatabase = [
     "name": "SafeGuard Bike Helmet",
     "category": "Art",
     "description": "Durable SafeGuard Bike Helmet in the Art category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 171.42
   },
   {
@@ -932,7 +932,7 @@ const ProductDatabase = [
     "name": "PhotoSnap Camera",
     "category": "Art",
     "description": "Limited Edition PhotoSnap Camera in the Art category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 152.42
   },
   {
@@ -948,7 +948,7 @@ const ProductDatabase = [
     "name": "ChillMate Ice Cream Maker",
     "category": "Crafts",
     "description": "Essential ChillMate Ice Cream Maker in the Crafts category, for fitness fans.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 59.76
   },
   {
@@ -972,7 +972,7 @@ const ProductDatabase = [
     "name": "HealthGuard Thermometer",
     "category": "Games",
     "description": "Modern HealthGuard Thermometer in the Games category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 71.26
   },
   {
@@ -1020,7 +1020,7 @@ const ProductDatabase = [
     "name": "Gourmet Spice Rack",
     "category": "Art",
     "description": "Compact Gourmet Spice Rack in the Art category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 17.78
   },
   {
@@ -1132,7 +1132,7 @@ const ProductDatabase = [
     "name": "VividColor Marker Set",
     "category": "Games",
     "description": "Premium VividColor Marker Set in the Games category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 27.84
   },
   {
@@ -1188,7 +1188,7 @@ const ProductDatabase = [
     "name": "GamerX Wireless Mouse",
     "category": "Crafts",
     "description": "Durable GamerX Wireless Mouse in the Crafts category, for tech enthusiasts.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 19.34
   },
   {
@@ -1196,7 +1196,7 @@ const ProductDatabase = [
     "name": "PetPlay Chew Toy",
     "category": "Crafts",
     "description": "Customizable PetPlay Chew Toy in the Crafts category, for fitness fans.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 15.26
   },
   {
@@ -1228,7 +1228,7 @@ const ProductDatabase = [
     "name": "PowerDrive Car Charger",
     "category": "Art",
     "description": "Eco-friendly PowerDrive Car Charger in the Art category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 51.18
   },
   {
@@ -1260,7 +1260,7 @@ const ProductDatabase = [
     "name": "QuickFix Tool Kit",
     "category": "Art",
     "description": "Essential QuickFix Tool Kit in the Art category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 29.2
   },
   {
@@ -1348,7 +1348,7 @@ const ProductDatabase = [
     "name": "SolarGlow Path Lights",
     "category": "Toys",
     "description": "Lightweight SolarGlow Path Lights in the Toys category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 84.81
   },
   {
@@ -1380,7 +1380,7 @@ const ProductDatabase = [
     "name": "QuickFix Tool Kit",
     "category": "Art",
     "description": "Versatile QuickFix Tool Kit in the Art category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 190.44
   },
   {
@@ -1388,7 +1388,7 @@ const ProductDatabase = [
     "name": "AquaFun Pool Float",
     "category": "Toys",
     "description": "Customizable AquaFun Pool Float in the Toys category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 52.32
   },
   {
@@ -1436,7 +1436,7 @@ const ProductDatabase = [
     "name": "QuickNote Sticky Pads",
     "category": "Art",
     "description": "Limited Edition QuickNote Sticky Pads in the Art category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 183.22
   },
   {
@@ -1668,7 +1668,7 @@ const ProductDatabase = [
     "name": "GardenFresh Herb Planter",
     "category": "Art",
     "description": "Amazing GardenFresh Herb Planter in the Art category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 32.34
   },
   {
@@ -1692,7 +1692,7 @@ const ProductDatabase = [
     "name": "SnackBox Variety Pack",
     "category": "Crafts",
     "description": "Limited Edition SnackBox Variety Pack in the Crafts category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 25.6
   },
   {
@@ -1708,7 +1708,7 @@ const ProductDatabase = [
     "name": "ComfyCotton Bath Towel",
     "category": "Crafts",
     "description": "Smart ComfyCotton Bath Towel in the Crafts category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 41.55
   },
   {
@@ -1764,7 +1764,7 @@ const ProductDatabase = [
     "name": "Speedster RC Car",
     "category": "Toys",
     "description": "Versatile Speedster RC Car in the Toys category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 35.08
   },
   {
@@ -1788,7 +1788,7 @@ const ProductDatabase = [
     "name": "GardenFresh Herb Planter",
     "category": "Games",
     "description": "Portable GardenFresh Herb Planter in the Games category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 15.37
   },
   {
@@ -1908,7 +1908,7 @@ const ProductDatabase = [
     "name": "Starlite LED Desk Lamp",
     "category": "Art",
     "description": "Modern Starlite LED Desk Lamp in the Art category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 106.2
   },
   {
@@ -1932,7 +1932,7 @@ const ProductDatabase = [
     "name": "GardenFresh Herb Planter",
     "category": "Toys",
     "description": "Stylish GardenFresh Herb Planter in the Toys category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.47
   },
   {
@@ -1956,7 +1956,7 @@ const ProductDatabase = [
     "name": "GardenFresh Herb Planter",
     "category": "Toys",
     "description": "Elegant GardenFresh Herb Planter in the Toys category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 15.44
   },
   {
@@ -2084,7 +2084,7 @@ const ProductDatabase = [
     "name": "PhotoPro Tripod",
     "category": "Art",
     "description": "Durable PhotoPro Tripod in the Art category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 176.68
   },
   {
@@ -2324,7 +2324,7 @@ const ProductDatabase = [
     "name": "ChefSelect Measuring Cups",
     "category": "Art",
     "description": "Amazing ChefSelect Measuring Cups in the Art category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 126.04
   },
   {
@@ -2364,7 +2364,7 @@ const ProductDatabase = [
     "name": "ChefPro Knife Set",
     "category": "Art",
     "description": "Handcrafted ChefPro Knife Set in the Art category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 36.16
   },
   {
@@ -2404,7 +2404,7 @@ const ProductDatabase = [
     "name": "VividColor Marker Set",
     "category": "Games",
     "description": "Classic VividColor Marker Set in the Games category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 64.1
   },
   {
@@ -2476,7 +2476,7 @@ const ProductDatabase = [
     "name": "HealthPlus Vitamin C",
     "category": "Art",
     "description": "Premium HealthPlus Vitamin C in the Art category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 27.17
   },
   {
@@ -2636,7 +2636,7 @@ const ProductDatabase = [
     "name": "UrbanChic Handbag",
     "category": "Games",
     "description": "Versatile UrbanChic Handbag in the Games category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 27.14
   },
   {
@@ -2644,7 +2644,7 @@ const ProductDatabase = [
     "name": "UrbanChic Handbag",
     "category": "Toys",
     "description": "Stylish UrbanChic Handbag in the Toys category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 93.77
   },
   {
@@ -2700,7 +2700,7 @@ const ProductDatabase = [
     "name": "GamerX Wireless Mouse",
     "category": "Crafts",
     "description": "Portable GamerX Wireless Mouse in the Crafts category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 95.51
   },
   {
@@ -2740,7 +2740,7 @@ const ProductDatabase = [
     "name": "HealthGuard Thermometer",
     "category": "Art",
     "description": "Modern HealthGuard Thermometer in the Art category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 117.96
   },
   {
@@ -2828,7 +2828,7 @@ const ProductDatabase = [
     "name": "Speedy Blender",
     "category": "Crafts",
     "description": "Innovative Speedy Blender in the Crafts category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 67.46
   },
   {
@@ -2884,7 +2884,7 @@ const ProductDatabase = [
     "name": "ChefElite Cutting Board",
     "category": "Crafts",
     "description": "Lightweight ChefElite Cutting Board in the Crafts category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 95.54
   },
   {
@@ -3020,7 +3020,7 @@ const ProductDatabase = [
     "name": "UltraSoft Memory Foam Pillow",
     "category": "Games",
     "description": "Modern UltraSoft Memory Foam Pillow in the Games category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 46.98
   },
   {
@@ -3036,7 +3036,7 @@ const ProductDatabase = [
     "name": "ComfyCotton Bath Towel",
     "category": "Art",
     "description": "Elegant ComfyCotton Bath Towel in the Art category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 72.13
   },
   {
@@ -3132,7 +3132,7 @@ const ProductDatabase = [
     "name": "MusicStar Keyboard",
     "category": "Toys",
     "description": "Lightweight MusicStar Keyboard in the Toys category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 12.49
   },
   {
@@ -3204,7 +3204,7 @@ const ProductDatabase = [
     "name": "SnackBox Variety Pack",
     "category": "Crafts",
     "description": "Limited Edition SnackBox Variety Pack in the Crafts category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 10.89
   },
   {
@@ -3260,7 +3260,7 @@ const ProductDatabase = [
     "name": "SnackTime Popcorn Maker",
     "category": "Toys",
     "description": "Customizable SnackTime Popcorn Maker in the Toys category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.16
   },
   {
@@ -3308,7 +3308,7 @@ const ProductDatabase = [
     "name": "Classic Leather Wallet",
     "category": "Games",
     "description": "Smart Classic Leather Wallet in the Games category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 117.13
   },
   {
@@ -3396,7 +3396,7 @@ const ProductDatabase = [
     "name": "ChillMate Ice Cream Maker",
     "category": "Games",
     "description": "Customizable ChillMate Ice Cream Maker in the Games category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 64.08
   },
   {
@@ -3556,7 +3556,7 @@ const ProductDatabase = [
     "name": "QuickFix Tool Kit",
     "category": "Art",
     "description": "Advanced QuickFix Tool Kit in the Art category, for bookworms.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 96.67
   },
   {
@@ -3588,7 +3588,7 @@ const ProductDatabase = [
     "name": "PetPal Automatic Feeder",
     "category": "Crafts",
     "description": "Premium PetPal Automatic Feeder in the Crafts category, for creative minds.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 72.53
   },
   {
@@ -3628,7 +3628,7 @@ const ProductDatabase = [
     "name": "SnackTime Popcorn Maker",
     "category": "Toys",
     "description": "Exclusive SnackTime Popcorn Maker in the Toys category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.36
   },
   {
@@ -3684,7 +3684,7 @@ const ProductDatabase = [
     "name": "AeroLite Wireless Earbuds",
     "category": "Art",
     "description": "Portable AeroLite Wireless Earbuds in the Art category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.41
   },
   {
@@ -3700,7 +3700,7 @@ const ProductDatabase = [
     "name": "PowerLift Kettlebell",
     "category": "Toys",
     "description": "Portable PowerLift Kettlebell in the Toys category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 24.72
   },
   {
@@ -3716,7 +3716,7 @@ const ProductDatabase = [
     "name": "GameMaster Chess Set",
     "category": "Toys",
     "description": "Handcrafted GameMaster Chess Set in the Toys category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 48.89
   },
   {
@@ -3756,7 +3756,7 @@ const ProductDatabase = [
     "name": "SculptEase Clay Kit",
     "category": "Art",
     "description": "Limited Edition SculptEase Clay Kit in the Art category, for kids.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 12.96
   },
   {
@@ -3764,7 +3764,7 @@ const ProductDatabase = [
     "name": "ChillMate Ice Cream Maker",
     "category": "Games",
     "description": "Essential ChillMate Ice Cream Maker in the Games category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 117.91
   },
   {
@@ -3772,7 +3772,7 @@ const ProductDatabase = [
     "name": "HealthPlus Vitamin C",
     "category": "Games",
     "description": "Amazing HealthPlus Vitamin C in the Games category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 112.94
   },
   {
@@ -3812,7 +3812,7 @@ const ProductDatabase = [
     "name": "AquaPure Glass Water Bottle",
     "category": "Art",
     "description": "Advanced AquaPure Glass Water Bottle in the Art category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 80.35
   },
   {
@@ -3828,7 +3828,7 @@ const ProductDatabase = [
     "name": "GardenJoy Watering Can",
     "category": "Art",
     "description": "Limited Edition GardenJoy Watering Can in the Art category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 165.4
   },
   {
@@ -3868,7 +3868,7 @@ const ProductDatabase = [
     "name": "BreezeCool Air Purifier",
     "category": "Games",
     "description": "Amazing BreezeCool Air Purifier in the Games category, for kids.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 78.69
   },
   {
@@ -3940,7 +3940,7 @@ const ProductDatabase = [
     "name": "SculptEase Clay Kit",
     "category": "Toys",
     "description": "Versatile SculptEase Clay Kit in the Toys category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 40.17
   },
   {
@@ -3948,7 +3948,7 @@ const ProductDatabase = [
     "name": "AquaPure Glass Water Bottle",
     "category": "Crafts",
     "description": "Smart AquaPure Glass Water Bottle in the Crafts category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 7.86
   },
   {
@@ -4036,7 +4036,7 @@ const ProductDatabase = [
     "name": "TravelBuddy Adapter",
     "category": "Toys",
     "description": "Innovative TravelBuddy Adapter in the Toys category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 53.72
   },
   {
@@ -4044,7 +4044,7 @@ const ProductDatabase = [
     "name": "FreshBrew Tea Infuser",
     "category": "Crafts",
     "description": "Versatile FreshBrew Tea Infuser in the Crafts category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 10.42
   },
   {
@@ -4124,7 +4124,7 @@ const ProductDatabase = [
     "name": "QuickFix Tool Kit",
     "category": "Games",
     "description": "Modern QuickFix Tool Kit in the Games category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 37.87
   },
   {
@@ -4164,7 +4164,7 @@ const ProductDatabase = [
     "name": "SmartHome WiFi Plug",
     "category": "Toys",
     "description": "Premium SmartHome WiFi Plug in the Toys category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 75.18
   },
   {
@@ -4356,7 +4356,7 @@ const ProductDatabase = [
     "name": "ChefMaster Nonstick Frying Pan",
     "category": "Art",
     "description": "Compact ChefMaster Nonstick Frying Pan in the Art category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 78.79
   },
   {
@@ -4364,7 +4364,7 @@ const ProductDatabase = [
     "name": "QuickNote Sticky Pads",
     "category": "Art",
     "description": "Elegant QuickNote Sticky Pads in the Art category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 102.89
   },
   {
@@ -4388,7 +4388,7 @@ const ProductDatabase = [
     "name": "PowerLift Kettlebell",
     "category": "Crafts",
     "description": "Durable PowerLift Kettlebell in the Crafts category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 32.09
   },
   {
@@ -4508,7 +4508,7 @@ const ProductDatabase = [
     "name": "TravelEase Neck Pillow",
     "category": "Art",
     "description": "Innovative TravelEase Neck Pillow in the Art category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 17.31
   },
   {
@@ -4540,7 +4540,7 @@ const ProductDatabase = [
     "name": "PhotoSnap Camera",
     "category": "Art",
     "description": "Amazing PhotoSnap Camera in the Art category, for bookworms.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 86.01
   },
   {
@@ -4580,7 +4580,7 @@ const ProductDatabase = [
     "name": "NatureView Bird Feeder",
     "category": "Games",
     "description": "Amazing NatureView Bird Feeder in the Games category, for creative minds.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 72.81
   },
   {
@@ -4836,7 +4836,7 @@ const ProductDatabase = [
     "name": "TrailBlazer Hiking Boots",
     "category": "Crafts",
     "description": "Versatile TrailBlazer Hiking Boots in the Crafts category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 38.47
   },
   {
@@ -4932,7 +4932,7 @@ const ProductDatabase = [
     "name": "PetPlay Chew Toy",
     "category": "Toys",
     "description": "Versatile PetPlay Chew Toy in the Toys category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 39.16
   },
   {
@@ -5020,7 +5020,7 @@ const ProductDatabase = [
     "name": "AutoShine Car Wax",
     "category": "Crafts",
     "description": "Innovative AutoShine Car Wax in the Crafts category, for tech enthusiasts.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 41.49
   },
   {
@@ -5092,7 +5092,7 @@ const ProductDatabase = [
     "name": "FlexiYoga Resistance Bands",
     "category": "Toys",
     "description": "Portable FlexiYoga Resistance Bands in the Toys category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 61.42
   },
   {
@@ -5132,7 +5132,7 @@ const ProductDatabase = [
     "name": "SculptEase Clay Kit",
     "category": "Crafts",
     "description": "Handcrafted SculptEase Clay Kit in the Crafts category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 24.45
   },
   {
@@ -5236,7 +5236,7 @@ const ProductDatabase = [
     "name": "UltraSoft Memory Foam Pillow",
     "category": "Crafts",
     "description": "Lightweight UltraSoft Memory Foam Pillow in the Crafts category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 78.17
   },
   {
@@ -5348,7 +5348,7 @@ const ProductDatabase = [
     "name": "HealthPlus Vitamin C",
     "category": "Art",
     "description": "Eco-friendly HealthPlus Vitamin C in the Art category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 152.5
   },
   {
@@ -5356,7 +5356,7 @@ const ProductDatabase = [
     "name": "SolarGlow Path Lights",
     "category": "Games",
     "description": "Elegant SolarGlow Path Lights in the Games category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 56.12
   },
   {
@@ -5404,7 +5404,7 @@ const ProductDatabase = [
     "name": "Starlite LED Desk Lamp",
     "category": "Art",
     "description": "Exclusive Starlite LED Desk Lamp in the Art category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 129.75
   },
   {
@@ -5484,7 +5484,7 @@ const ProductDatabase = [
     "name": "FreshBrew Tea Infuser",
     "category": "Crafts",
     "description": "Compact FreshBrew Tea Infuser in the Crafts category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 16.39
   },
   {
@@ -5548,7 +5548,7 @@ const ProductDatabase = [
     "name": "UrbanStyle Backpack",
     "category": "Games",
     "description": "Stylish UrbanStyle Backpack in the Games category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 113.51
   },
   {
@@ -5572,7 +5572,7 @@ const ProductDatabase = [
     "name": "TrailBlazer Hiking Boots",
     "category": "Art",
     "description": "Advanced TrailBlazer Hiking Boots in the Art category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 101.89
   },
   {
@@ -5580,7 +5580,7 @@ const ProductDatabase = [
     "name": "SonicClean Electric Toothbrush",
     "category": "Games",
     "description": "Smart SonicClean Electric Toothbrush in the Games category, for gamers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 82.04
   },
   {
@@ -5660,7 +5660,7 @@ const ProductDatabase = [
     "name": "QuickCharge Power Bank",
     "category": "Toys",
     "description": "Stylish QuickCharge Power Bank in the Toys category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 31.36
   },
   {
@@ -5748,7 +5748,7 @@ const ProductDatabase = [
     "name": "SonicClean Electric Toothbrush",
     "category": "Art",
     "description": "Smart SonicClean Electric Toothbrush in the Art category, for creative minds.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 46.99
   },
   {
@@ -5788,7 +5788,7 @@ const ProductDatabase = [
     "name": "SolarCharge Lantern",
     "category": "Art",
     "description": "Innovative SolarCharge Lantern in the Art category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 189.25
   },
   {
@@ -5836,7 +5836,7 @@ const ProductDatabase = [
     "name": "Gemstone Pendant",
     "category": "Art",
     "description": "Customizable Gemstone Pendant in the Art category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 175.27
   },
   {
@@ -5844,7 +5844,7 @@ const ProductDatabase = [
     "name": "AromaBliss Candle",
     "category": "Art",
     "description": "Versatile AromaBliss Candle in the Art category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.75
   },
   {
@@ -5892,7 +5892,7 @@ const ProductDatabase = [
     "name": "ChefMaster Nonstick Frying Pan",
     "category": "Crafts",
     "description": "Elegant ChefMaster Nonstick Frying Pan in the Crafts category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 8.53
   },
   {
@@ -5964,7 +5964,7 @@ const ProductDatabase = [
     "name": "BreezeCool Air Purifier",
     "category": "Crafts",
     "description": "Lightweight BreezeCool Air Purifier in the Crafts category, for kids.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 62.51
   },
   {
@@ -6012,7 +6012,7 @@ const ProductDatabase = [
     "name": "PhotoPro Tripod",
     "category": "Toys",
     "description": "Advanced PhotoPro Tripod in the Toys category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 71.13
   },
   {
@@ -6036,7 +6036,7 @@ const ProductDatabase = [
     "name": "FlexiYoga Resistance Bands",
     "category": "Crafts",
     "description": "Innovative FlexiYoga Resistance Bands in the Crafts category, for bookworms.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 36.28
   },
   {
@@ -6116,7 +6116,7 @@ const ProductDatabase = [
     "name": "SnackBox Variety Pack",
     "category": "Toys",
     "description": "Essential SnackBox Variety Pack in the Toys category, for bookworms.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 68.58
   },
   {
@@ -6180,7 +6180,7 @@ const ProductDatabase = [
     "name": "PetPal Automatic Feeder",
     "category": "Crafts",
     "description": "Stylish PetPal Automatic Feeder in the Crafts category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 79.24
   },
   {
@@ -6196,7 +6196,7 @@ const ProductDatabase = [
     "name": "FitStep Pedometer",
     "category": "Art",
     "description": "Handcrafted FitStep Pedometer in the Art category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 69.22
   },
   {
@@ -6212,7 +6212,7 @@ const ProductDatabase = [
     "name": "ComfyPet Dog Bed",
     "category": "Games",
     "description": "Handcrafted ComfyPet Dog Bed in the Games category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 105.93
   },
   {
@@ -6268,7 +6268,7 @@ const ProductDatabase = [
     "name": "UltraSoft Memory Foam Pillow",
     "category": "Art",
     "description": "Compact UltraSoft Memory Foam Pillow in the Art category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 187.13
   },
   {
@@ -6300,7 +6300,7 @@ const ProductDatabase = [
     "name": "Gemstone Pendant",
     "category": "Art",
     "description": "Smart Gemstone Pendant in the Art category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 135.91
   },
   {
@@ -6460,7 +6460,7 @@ const ProductDatabase = [
     "name": "UrbanStep Sneakers",
     "category": "Art",
     "description": "Stylish UrbanStep Sneakers in the Art category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 22.5
   },
   {
@@ -6492,7 +6492,7 @@ const ProductDatabase = [
     "name": "ComfyPet Dog Bed",
     "category": "Games",
     "description": "Handcrafted ComfyPet Dog Bed in the Games category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 61.77
   },
   {
@@ -6652,7 +6652,7 @@ const ProductDatabase = [
     "name": "TravelPro Luggage Set",
     "category": "Crafts",
     "description": "Premium TravelPro Luggage Set in the Crafts category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 58.11
   },
   {
@@ -6684,7 +6684,7 @@ const ProductDatabase = [
     "name": "BabyDreams Night Light",
     "category": "Toys",
     "description": "Limited Edition BabyDreams Night Light in the Toys category, for creative minds.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 12.73
   },
   {
@@ -6764,7 +6764,7 @@ const ProductDatabase = [
     "name": "SonicClean Electric Toothbrush",
     "category": "Art",
     "description": "Versatile SonicClean Electric Toothbrush in the Art category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 13.3
   },
   {
@@ -6780,7 +6780,7 @@ const ProductDatabase = [
     "name": "Sparkle Diamond Earrings",
     "category": "Toys",
     "description": "Durable Sparkle Diamond Earrings in the Toys category, for outdoor adventures.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 73.02
   },
   {
@@ -6876,7 +6876,7 @@ const ProductDatabase = [
     "name": "ZenGarden Tabletop Fountain",
     "category": "Crafts",
     "description": "Classic ZenGarden Tabletop Fountain in the Crafts category, for office.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 31.36
   },
   {
@@ -6924,7 +6924,7 @@ const ProductDatabase = [
     "name": "AutoGuard Dash Cam",
     "category": "Crafts",
     "description": "Exclusive AutoGuard Dash Cam in the Crafts category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 34.5
   },
   {
@@ -6972,7 +6972,7 @@ const ProductDatabase = [
     "name": "HealthPlus Vitamin C",
     "category": "Toys",
     "description": "Limited Edition HealthPlus Vitamin C in the Toys category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 40.17
   },
   {
@@ -6996,7 +6996,7 @@ const ProductDatabase = [
     "name": "AeroLite Wireless Earbuds",
     "category": "Crafts",
     "description": "Essential AeroLite Wireless Earbuds in the Crafts category, for students.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 19.29
   },
   {
@@ -7028,7 +7028,7 @@ const ProductDatabase = [
     "name": "TravelPro Luggage Set",
     "category": "Art",
     "description": "Limited Edition TravelPro Luggage Set in the Art category, for everyday use.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 125.28
   },
   {
@@ -7084,7 +7084,7 @@ const ProductDatabase = [
     "name": "SafeGuard Bike Helmet",
     "category": "Games",
     "description": "Limited Edition SafeGuard Bike Helmet in the Games category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 80.19
   },
   {
@@ -7092,7 +7092,7 @@ const ProductDatabase = [
     "name": "BabyDreams Night Light",
     "category": "Art",
     "description": "Portable BabyDreams Night Light in the Art category, for music lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 143.35
   },
   {
@@ -7132,7 +7132,7 @@ const ProductDatabase = [
     "name": "EcoBrew Stainless Steel Coffee Maker",
     "category": "Toys",
     "description": "Modern EcoBrew Stainless Steel Coffee Maker in the Toys category, for chefs.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 92.47
   },
   {
@@ -7196,7 +7196,7 @@ const ProductDatabase = [
     "name": "NatureView Bird Feeder",
     "category": "Games",
     "description": "Exclusive NatureView Bird Feeder in the Games category, for pet lovers.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 80.33
   },
   {
@@ -7228,7 +7228,7 @@ const ProductDatabase = [
     "name": "PhotoFrame Digital Frame",
     "category": "Art",
     "description": "Durable PhotoFrame Digital Frame in the Art category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 115.89
   },
   {
@@ -7404,7 +7404,7 @@ const ProductDatabase = [
     "name": "ComfyCotton Bath Towel",
     "category": "Toys",
     "description": "Durable ComfyCotton Bath Towel in the Toys category, for professionals.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 40.99
   },
   {
@@ -7508,7 +7508,7 @@ const ProductDatabase = [
     "name": "MusicFlow Headphones",
     "category": "Toys",
     "description": "Portable MusicFlow Headphones in the Toys category, for relaxation.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 39.24
   },
   {
@@ -7540,7 +7540,7 @@ const ProductDatabase = [
     "name": "HomeChef Stand Mixer",
     "category": "Games",
     "description": "Classic HomeChef Stand Mixer in the Games category, for bookworms.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 56.6
   },
   {
@@ -7548,7 +7548,7 @@ const ProductDatabase = [
     "name": "UrbanStyle Backpack",
     "category": "Crafts",
     "description": "Modern UrbanStyle Backpack in the Crafts category, for families.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 43.28
   },
   {
@@ -7556,7 +7556,7 @@ const ProductDatabase = [
     "name": "ChefPro Knife Set",
     "category": "Toys",
     "description": "Customizable ChefPro Knife Set in the Toys category, for creative minds.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 47.43
   },
   {
@@ -7716,7 +7716,7 @@ const ProductDatabase = [
     "name": "ShineBright Necklace",
     "category": "Crafts",
     "description": "Eco-friendly ShineBright Necklace in the Crafts category, for your home.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 24.68
   },
   {
@@ -7884,7 +7884,7 @@ const ProductDatabase = [
     "name": "Harmony Essential Oil Diffuser",
     "category": "Art",
     "description": "Portable Harmony Essential Oil Diffuser in the Art category, for travel.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 84.51
   },
   {
@@ -7948,7 +7948,7 @@ const ProductDatabase = [
     "name": "HealthGuard Thermometer",
     "category": "Art",
     "description": "Amazing HealthGuard Thermometer in the Art category, for artists.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 27.41
   },
   {
@@ -7972,7 +7972,7 @@ const ProductDatabase = [
     "name": "AquaFun Pool Float",
     "category": "Games",
     "description": "Modern AquaFun Pool Float in the Games category, for fun.",
-    "imageurl": "https://images.unsplash.com/photo-1511453673005-6b5a3c1e0c49?auto=format&fit=crop&w=800&q=80",
+    "imageurl": "https://media.istockphoto.com/id/184294297/photo/cordless-yellow-power-drill-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=3OrCZVMNcGG5twcwTVwuFAAkKHavDrZwEC2WXIClmPA=",
     "price": 108.75
   },
   {

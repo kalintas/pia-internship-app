@@ -1,3 +1,8 @@
+* {
+ font-size: 100%;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #searchResults {
     display: flex;
     flex-wrap: wrap;
@@ -109,6 +114,10 @@
     font-weight: bold;
     box-shadow: none;
     transition: background 0.2s, color 0.2s, border 0.2s;
+}
+
+.product-detail-add-to-cart {
+    margin-bottom: 10px;
 }
 
 .search-btn:hover, .product-detail-add-to-cart:hover, .product-detail-back:hover, .pagination-btn:hover:not(:disabled), .pagination-btn.active {
@@ -269,3 +278,63 @@
     color: #b0bec5;
     cursor: not-allowed;
 }
+
+.suggestions-box {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    width: 400px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+    padding: 28px 28px 20px 28px;
+    z-index: 1000;
+}
+.suggestions-title {
+    font-weight: bold;
+    font-size: 1.25em;
+    margin-bottom: 16px;
+}
+.suggestions-list {
+    font-size: 1.08em;
+}
+.suggestions-empty {
+    color: #888;
+}
+.suggestion-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.suggestion-img {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.suggestion-info {
+    flex: 1;
+}
+.suggestion-name {
+    font-weight: 500;
+}
+.suggestion-price {
+    font-size: 0.95em;
+    color: #888;
+}
+.suggestion-view-btn {
+    margin-left: 8px;
+    padding: 4px 10px;
+    font-size: 0.95em;
+}
+
+.results-count {
+    text-align: right;
+    font-size: 1.1em;
+    color: #333;
+    margin: 0 0 10px 0;
+    padding-right: 10px;
+}
+
