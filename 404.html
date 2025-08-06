@@ -1,0 +1,14 @@
+<!-- Simple 404 page to redirect to the index page. This is done for our simple SPA web page to run normally -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      // Get the path and redirect to index.html with the correct path
+      const path = window.location.pathname;
+      window.location.replace(`${window.location.origin}${path}`);
+    </script>
+  </head>
+  <body></body>
+</html>
