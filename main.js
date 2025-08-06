@@ -13,9 +13,21 @@ const Routes = [
 function router() {
     resetHomePageState();
     resetProductPageState();
-    let path = location.pathname.replace('/pia-internship-app', '');
-    if (path === "") {
-        path = '/';
+    let path;
+    let cleaned = false;
+    if (location.search.startsWith('?/')) {
+        // Extract the path from the query string, ignoring any additional query params
+        path = location.search.slice(2).split('&')[0];
+        path = '/' + path.replace(/^\//, ''); // Ensure leading slash
+        // Clean up the URL in the address bar
+        const newUrl = '/pia-internship-app' + path + location.hash;
+        history.replaceState(null, '', newUrl);
+        cleaned = true;
+    } else {
+        path = location.pathname.replace('/pia-internship-app', '');
+        if (path === "") {
+            path = '/';
+        }
     }
     let regexMatch = Routes.find(route => route.path.test(path));
     const root = document.getElementById('root');
