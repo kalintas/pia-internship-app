@@ -21,7 +21,10 @@ function HomePage() {
 
         // Add a results count display above the results
     return String.raw`
-    <div class="homepage-container">
+    <div class="homepage-container homepage-container-relative">
+        <button class="cart-btn cart-btn-absolute" onclick="toggleCart()">
+            🛒 Cart (${cartItems.length})
+        </button>
         <div class="homepage-header">
             <img src="/pia-internship-app/images/favicon.ico" class="homepage-logo" alt="Logo">
             <span class="homepage-brand">Amazon 2</span>
@@ -37,6 +40,9 @@ function HomePage() {
         <div id="resultsCount" class="results-count"></div>
         <div id="searchResults" class="homepage-results"></div>
         ${Pagination({ currentPage, totalPages, onPageChange: "onHomePageChange" })}
+        <div id="cart-sidebar" class="cart-sidebar">
+            ${Cart({ items: cartItems, total: cartTotal })}
+        </div>
     </div>`;
 }
 
@@ -48,6 +54,9 @@ function Product({ product }) {
         <div class="productCategory" id="category">${product.category}</div>
         <div class="productDescription" id="description">${product.description}</div>
         <div class="productPrice product-detail-price" id="price">$${product.price}</div>
+        <div class="product-actions">
+            <button class="product-quick-add-btn" onClick="event.stopPropagation(); addToCart('${product.id}')">Add to Cart</button>
+        </div>
     </div>`;
 }
 

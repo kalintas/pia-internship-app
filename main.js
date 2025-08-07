@@ -34,12 +34,14 @@ function router() {
         if (regexMatch.page === 'home') {
             root.innerHTML = HomePage();
             search();
+            initializeCart();
             return;
         } else if (regexMatch.page === 'product') {
             const productId = regexMatch.path.exec(path)[1];
             const product = ProductDatabase.find(product => product.id === productId);
             if (product) {
                 root.innerHTML = ProductPage({ product });
+                initializeCart();
                 return;
             }
         }
@@ -47,6 +49,7 @@ function router() {
 
     // Could not find a match.
     root.innerHTML = NotFoundPage();
+    initializeCart();
 }
 
 document.addEventListener("DOMContentLoaded", router);

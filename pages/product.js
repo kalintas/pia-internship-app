@@ -74,15 +74,19 @@ function ProductPage({ product }) {
     setSuggestionSwipeTimeout();
     currentProduct = product;
     return String.raw`
-    <div class="product-detail-page">
+    <div class="product-detail-page product-detail-page-relative">
+        <button class="cart-btn cart-btn-absolute" onclick="toggleCart()">🛒 Cart (${cartItems.length})</button>
         <img src="${product.imageurl}" class="product-detail-image">
         <div class="product-detail-name">${product.name}</div>
         <div class="product-detail-id">ID: ${product.id}</div>
         <div class="product-detail-category">${product.category}</div>
         <div class="product-detail-description">${product.description}</div>
         <div class="product-detail-price">$${product.price}</div>
-        <button class="product-detail-add-to-cart")">Add to Cart</button>
+        <button class="product-detail-add-to-cart" onclick="addToCart('${product.id}')">Add to Cart</button>
         <button class="product-detail-back" onclick="history.pushState(null, null, '../'); router();">Back to Home</button>
+        <div id="cart-sidebar" class="cart-sidebar">
+            ${Cart({ items: cartItems, total: cartTotal })}
+        </div>
     </div>
         ${Suggestions({ product })}
     `;
