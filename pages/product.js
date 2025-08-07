@@ -3,6 +3,7 @@ let currentSuggestionsPage = 1;
 let totalSuggestionsPages = 0;
 let currentProduct = null;
 let suggestionSwipeTimeout = null;
+const ProductPageMaxPagesToShow = 4;
 
 function resetProductPageState() {
     currentSuggestionsPage = 1;
@@ -19,7 +20,7 @@ function onSuggestionsPageChange(page) {
         return;
     }
     currentSuggestionsPage = page;
-    updatePagination(currentSuggestionsPage, totalSuggestionsPages, "onSuggestionsPageChange");
+    updatePagination(currentSuggestionsPage, totalSuggestionsPages, "onSuggestionsPageChange", ProductPageMaxPagesToShow);
     let suggestionsBox = document.getElementById("suggestions-box");
     suggestionsBox.outerHTML = Suggestions({ product: currentProduct });
 
@@ -58,7 +59,7 @@ function Suggestions({ product }) {
             <button class="suggestion-view-btn" onclick="history.pushState(null, null, '/product/${p.id}'); router();">View</button>
         </div>
     `).join('');
-    const pagination = Pagination({ currentPage: currentSuggestionsPage, totalPages, onPageChange: "onSuggestionsPageChange", maxPagesToShow: 4 });
+    const pagination = Pagination({ currentPage: currentSuggestionsPage, totalPages, onPageChange: "onSuggestionsPageChange", maxPagesToShow: ProductPageMaxPagesToShow });
     return String.raw`
     <div id="suggestions-box" class="suggestions-box">
         <div class="suggestions-title">Similar Products</div>

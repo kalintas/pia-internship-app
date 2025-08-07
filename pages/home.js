@@ -1,6 +1,28 @@
-const MaximumProductPerPage = 60;
+let MaximumProductPerPage = window.innerWidth <= 600 ? 20 : 60;
+let MaxPagesToShow = window.innerWidth <= 600 ? 3 : 10;
 let currentPage = 1;
 let totalPages = Math.ceil(ProductDatabase.length / MaximumProductPerPage);
+
+
+// Update the maximum number of products per page based on the screen width.
+function updateMaximumProductPerPage() {
+    const newValue = window.innerWidth <= 600 ? 20 : 60;
+    if (MaximumProductPerPage !== newValue) {
+        MaximumProductPerPage = newValue;
+        search();
+    }
+}
+function onHomePageResize() {
+    if (ActivePage !== "home") {
+        return;
+    }
+    updateMaximumProductPerPage();
+    MaxPagesToShow = window.innerWidth <= 1000 ? (window.innerWidth <= 600 ? 3 : 5): 10;
+    updatePagination(currentPage, totalPages, "onHomePageChange", MaxPagesToShow);
+}
+
+window.addEventListener('resize', onHomePageResize);
+window.addEventListener('DOMContentLoaded', onHomePageResize);
 
 function resetHomePageState() {
     currentPage = 1;
@@ -9,7 +31,7 @@ function resetHomePageState() {
 function onHomePageChange(page) {
     currentPage = page;
     search(true);
-    updatePagination(currentPage, totalPages, "onHomePageChange");
+    updatePagination(currentPage, totalPages, "onHomePageChange", MaxPagesToShow);
     window.scrollTo(0, 0);
 }
 
@@ -75,7 +97,7 @@ function search(keepPage) {
         currentPage = 1;
     }
     totalPages = Math.ceil(searchResult.length / MaximumProductPerPage);
-    updatePagination(currentPage, totalPages, "onHomePageChange");
+    updatePagination(currentPage, totalPages, "onHomePageChange", MaxPagesToShow);
 
     let table = document.getElementById('searchResults');
     let resultsCountDiv = document.getElementById('resultsCount');

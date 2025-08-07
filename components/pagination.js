@@ -3,7 +3,7 @@
 function Pagination({ currentPage, totalPages, onPageChange, maxPagesToShow = 10 }) {
     let pageNumbers = "";
     let startPage, endPage;
-
+    console.log(maxPagesToShow)
     if (totalPages <= maxPagesToShow) {
         // We can simply put every page number to the component.
         startPage = 1;
@@ -56,7 +56,7 @@ function Pagination({ currentPage, totalPages, onPageChange, maxPagesToShow = 10
 
 }
 
-function updatePagination(currentPage, totalPages, onPageChange) {
+function updatePagination(currentPage, totalPages, onPageChange, maxPagesToShow = 10) {
     const pagination = document.getElementById('pagination');
-    pagination.outerHTML = Pagination({ currentPage, totalPages, onPageChange });
+    pagination.outerHTML = Pagination({ currentPage, totalPages, onPageChange, maxPagesToShow });
 }

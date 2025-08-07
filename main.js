@@ -10,6 +10,8 @@ const Routes = [
     }
 ]
 
+let ActivePage = null;
+
 function router() {
     resetHomePageState();
     resetProductPageState();
@@ -35,6 +37,7 @@ function router() {
             root.innerHTML = HomePage();
             search();
             initializeCart();
+            ActivePage = 'home';
             return;
         } else if (regexMatch.page === 'product') {
             const productId = regexMatch.path.exec(path)[1];
@@ -42,6 +45,7 @@ function router() {
             if (product) {
                 root.innerHTML = ProductPage({ product });
                 initializeCart();
+                ActivePage = 'product';
                 return;
             }
         }
