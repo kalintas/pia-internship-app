@@ -106,7 +106,7 @@ function Cart({ items = cartItems, total = cartTotal }) {
             </div>
             <div class="cart-empty">
                 <p>Your cart is empty</p>
-                <button class="cart-continue-shopping" onclick="toggleCart(); history.pushState(null, null, '/'); router();">Continue Shopping</button>
+                <button class="cart-continue-shopping" onclick="toggleCart();">Continue Shopping</button>
             </div>
         </div>`;
     }

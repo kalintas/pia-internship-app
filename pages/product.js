@@ -56,7 +56,7 @@ function Suggestions({ product }) {
                 <div class="suggestion-name">${p.name}</div>
                 <div class="suggestion-price">$${p.price}</div>
             </div>
-            <button class="suggestion-view-btn" onclick="history.pushState(null, null, '/product/${p.id}'); router();">View</button>
+            <button class="suggestion-view-btn" onclick="history.pushState(null, null, '../product/${p.id}'); router();">View</button>
         </div>
     `).join('');
     const pagination = Pagination({ currentPage: currentSuggestionsPage, totalPages, onPageChange: "onSuggestionsPageChange", maxPagesToShow: ProductPageMaxPagesToShow });
